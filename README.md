@@ -6,3 +6,4 @@ Created By :Mohsin Iqbal
 3)after hold press its other player turn
 4)if a player continue rolling dice and there occur 1 than all his current score will be zero
 6)and after it now its player 2 turn
+7)plyer Who will reach first at score 10 will be winner
